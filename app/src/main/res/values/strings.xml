@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Play Music</string>
+    <string name="textViewSplash">By AK</string>
+    <string name="imgSplashDiscirption">MusicImg</string>
+</resources>
